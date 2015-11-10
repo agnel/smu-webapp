@@ -1,0 +1,71 @@
+[33mcommit a85edd765c78d7f6d5769cc6d35d60a01ae0364b[m
+Author: agnelwaghela <agnelwaghela@gmail.com>
+Date:   Wed May 6 01:19:59 2015 -0400
+
+    Initial Commit
+
+ create mode 100644 smu/.gitignore
+ create mode 100644 smu/Gemfile
+ create mode 100644 smu/Gemfile.lock
+ create mode 100644 smu/README.rdoc
+ create mode 100644 smu/Rakefile
+ create mode 100644 smu/app/assets/images/.keep
+ create mode 100644 smu/app/assets/javascripts/application.js
+ create mode 100644 smu/app/assets/stylesheets/application.css
+ create mode 100644 smu/app/controllers/application_controller.rb
+ create mode 100644 smu/app/controllers/concerns/.keep
+ create mode 100644 smu/app/helpers/application_helper.rb
+ create mode 100644 smu/app/mailers/.keep
+ create mode 100644 smu/app/models/.keep
+ create mode 100644 smu/app/models/concerns/.keep
+ create mode 100644 smu/app/views/layouts/application.html.erb
+ create mode 100755 smu/bin/bundle
+ create mode 100755 smu/bin/rails
+ create mode 100755 smu/bin/rake
+ create mode 100755 smu/bin/spring
+ create mode 100644 smu/config.ru
+ create mode 100644 smu/config/application.rb
+ create mode 100644 smu/config/boot.rb
+ create mode 100644 smu/config/database.yml
+ create mode 100644 smu/config/environment.rb
+ create mode 100644 smu/config/environments/development.rb
+ create mode 100644 smu/config/environments/production.rb
+ create mode 100644 smu/config/environments/test.rb
+ create mode 100644 smu/config/initializers/assets.rb
+ create mode 100644 smu/config/initializers/backtrace_silencers.rb
+ create mode 100644 smu/config/initializers/cookies_serializer.rb
+ create mode 100644 smu/config/initializers/filter_parameter_logging.rb
+ create mode 100644 smu/config/initializers/inflections.rb
+ create mode 100644 smu/config/initializers/mime_types.rb
+ create mode 100644 smu/config/initializers/session_store.rb
+ create mode 100644 smu/config/initializers/wrap_parameters.rb
+ create mode 100644 smu/config/locales/en.yml
+ create mode 100644 smu/config/routes.rb
+ create mode 100644 smu/config/secrets.yml
+ create mode 100644 smu/db/seeds.rb
+ create mode 100644 smu/lib/assets/.keep
+ create mode 100644 smu/lib/tasks/.keep
+ create mode 100644 smu/log/.keep
+ create mode 100644 smu/public/404.html
+ create mode 100644 smu/public/422.html
+ create mode 100644 smu/public/500.html
+ create mode 100644 smu/public/favicon.ico
+ create mode 100644 smu/public/robots.txt
+ create mode 100644 smu/test/controllers/.keep
+ create mode 100644 smu/test/fixtures/.keep
+ create mode 100644 smu/test/helpers/.keep
+ create mode 100644 smu/test/integration/.keep
+ create mode 100644 smu/test/mailers/.keep
+ create mode 100644 smu/test/models/.keep
+ create mode 100644 smu/test/test_helper.rb
+ create mode 100644 smu/vendor/assets/javascripts/.keep
+ create mode 100644 smu/vendor/assets/stylesheets/.keep
+
+[33mcommit 852b05b8b377d5607f1dfb0e5edc9cf8e1bbbc24[m
+Author: Agnel Waghela <agnel@users.noreply.github.com>
+Date:   Tue Mar 24 15:43:41 2015 +0530
+
+    Initial commit
+
+ create mode 100644 LICENSE
+ create mode 100644 README.md

@@ -37,4 +37,23 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'byebug', group: [:development]
 
+gem "wkhtmltopdf" # pdf binary used by wicked_pdf
+gem "prawn" # pdf generation
+gem "barby" # bar code generation
+gem "bootstrap-sass" # bootstrap support
+gem "better_errors"
+gem "chunky_png" # for generating png images
+gem "deadweight"
+gem "font-awesome-sass" # font-awesome icons
+gem "iconv"
+gem "json" # json support
+gem "launchy"
+#gem "less-rails"
+gem "logstasher" # better logging or errors
+gem "roo" # CSV, Excel support
+gem "writeexcel" # Excel support
+gem "wicked_pdf" # pdf generation
+gem "will_paginate" # to create pagination
+gem "whenever" # schedule cron jobs https://github.com/javan/whenever
